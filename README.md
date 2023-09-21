@@ -1,3 +1,3 @@
-M# hello-world
+# hello-world
 Learning GitHub
 Меня зовут Рома.
